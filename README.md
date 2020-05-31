@@ -1,6 +1,4 @@
-Hi . this is mahmood
-I am glade to user my app  :)
-
+Hi . this is mahmood . I am glade to user my app  :)
 
 plz folow setps to run the app : 
 
