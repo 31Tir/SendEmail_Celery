@@ -10,11 +10,11 @@ plz folow setps to run the app :
 
 4- in another terminal write "redis-server "
 
-4-  in a terminal run the project  and in another termnal run celery with " celery -A picha worker -l info "
+5-  in a terminal run the project  and in another termnal run celery with " celery -A picha worker -l info "
 
-5-  after run the project got to " http://127.0.0.1:8000/ "
+6-  after run the project got to " http://127.0.0.1:8000/ "
 
-6-  after that email sent to special emil
+7-  after that email sent to special emil
 
 -   if you want change special email got to  " picha/sendmail/views.py "
 
