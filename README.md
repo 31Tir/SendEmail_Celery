@@ -8,6 +8,8 @@ plz folow setps to run the app :
 
 3-  install packeges whit " pip install -r requirements.txt "
 
+4- in another terminal write "redis-server "
+
 4-  in a terminal run the project  and in another termnal run celery with " celery -A picha worker -l info "
 
 5-  after run the project got to " http://127.0.0.1:8000/ "
